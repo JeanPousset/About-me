@@ -1,4 +1,4 @@
-# Finite Element Method library
+# Finite Element Method (FEM) library
 
 ## Description
 
